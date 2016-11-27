@@ -1,0 +1,2 @@
+# MezunBilgiProjesi
+Deneme
